@@ -11,6 +11,4 @@ This page is destinated to explain electronic circuits
 
 ### Power
 
-<div align="right">
-  <a href="index.md">Back</a>
-</div>
+[Back](index.md){: style="float: right;" }
