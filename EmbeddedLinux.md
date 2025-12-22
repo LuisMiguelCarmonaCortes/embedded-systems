@@ -11,6 +11,5 @@
 ### F1c200s
 
 
-<p align="right">
-  <a href="index.md">Back</a>
-</p>
+
+[Back](index.md){: style="float: right;" }
