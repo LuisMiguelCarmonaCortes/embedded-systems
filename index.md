@@ -1,2 +1,2 @@
 # EMBEDDED SYSTEMS PROJECTS
-This is a blog where I will publish some projects that where you will learn about createe your own electonics circuit boards, code the firmware of this boards, learn about linux embedded software and many projects. 
+This is a blog where I will publish some projects where you will learn about create your own electonics circuit boards, code the firmware of this boards, learn about linux embedded software and many projects. 
