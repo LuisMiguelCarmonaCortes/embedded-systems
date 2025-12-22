@@ -1,2 +1,35 @@
 # EMBEDDED SYSTEMS PROJECTS
 This is a blog where I will publish some projects where you will learn about create your own electonics circuit boards, code the firmware of this boards, learn about linux embedded software and many projects. 
+
+## INDICE
+- [Electrónica](#electronica)
+- [Firmware](#firmware)
+- [Linux embebido](#linux-embebido)
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+
+### Electrónica
+
