@@ -12,4 +12,4 @@
 
 
 
-[Back](index.md)
+[Back](index.md){: style="float: right;" }
