@@ -11,6 +11,6 @@
 ### F1c200s
 
 
-<div align="right">
+<p align="right">
   <a href="index.md">Back</a>
-</div>
+</p>
