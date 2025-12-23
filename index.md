@@ -39,6 +39,6 @@ Come and lose yourself in this exciting world of DIY electronics.
     - [Project 1](EmbeddedLinux.md#project-1)
 
 - [Software tools](Software.md#software-tools)
-  - [Project 1](Software.md#project-1)
+  - [Oscilopython](Software.md#oscilopython)
   - [Project 2](Software.md#project-2)
   - [Project 3](Software.md#project-3)
