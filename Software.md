@@ -21,7 +21,7 @@ The project is divided into two main components:
 
 These two components communicate through a **UART serial interface**, making the system simple, portable, and compatible with multiple operating systems.
 
-![System block diagram](/Blog/Images/esquema.jpg)
+![System block diagram](/Blog/Images/System_Diagram.png)
 
 #### Microcontroller Side (Data Acquisition)
 
@@ -40,7 +40,7 @@ The data is sent as a **serialized stream**, where each channel value is separat
 
 This simple and human-readable protocol allows the PC software to easily parse and assign each value to its corresponding channel.
 
-![ADC data flow](/Blog/Images/esquema.jpg)
+![ADC data flow](/Blog/Images/Flow_Diagram_c.png)
 
 #### PC Side (Data Reception and Visualization)
 
