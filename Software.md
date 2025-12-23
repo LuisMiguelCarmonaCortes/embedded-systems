@@ -2,6 +2,10 @@
 
 ## Software Tools
 
+This section presents software-oriented projects focused on **embedded systems**, **hardware–software integration**, and **low-level communication**. The tools showcased here are designed to interact directly with microcontrollers, process raw data, and provide practical visualization or debugging capabilities.
+
+The main objective of these projects is to explore how software can be used to extend the functionality of embedded hardware, enabling efficient data acquisition, analysis, and system control using lightweight and accessible technologies.
+
 ### OsciloPython – Low-Cost PC-Based Oscilloscope Using a Microcontroller
 
 **OsciloPython** is a low-cost, PC-based oscilloscope designed for embedded electronics experimentation and basic signal analysis. The main goal of the project is to provide oscilloscope-like functionality using minimal hardware resources: a microcontroller with an internal Analog-to-Digital Converter (ADC) and a personal computer running Python.
